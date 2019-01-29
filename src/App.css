@@ -1,0 +1,50 @@
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-content {
+  max-width: 480px;
+  margin: 16px;
+}
+
+.App-title {
+  font-size: 1em;
+}
+
+#text{
+  font-size: 2em;
+}
+
+#author {
+  text-align: right;
+  display: block;
+}
+
+.button-row {
+  display: flex;
+}
+.button {
+  width: 50%;
+  line-height: 50px;
+  border: none;
+  background-color: red;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+
+#new-quote {
+  background-color: #FF6138;
+  margin-right: 8px;
+}
+
+#tweet-quote {
+  background-color: #00A388;
+  margin-left: 8px;
+}

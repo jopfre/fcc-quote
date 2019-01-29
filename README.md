@@ -1,6 +1,5 @@
-# Redux Crash Course
-
-> Code from the "Redux Crash Course With React" video. Simple implementation of Redux using a couple React components.
+# fcc-quote
+Randon Quote Generator with React and Redux for Free Code Camp
 
 ## Quick Start
 

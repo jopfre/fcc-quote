@@ -1,5 +1,5 @@
 # fcc-quote
-Randon Quote Generator with React and Redux for Free Code Camp
+Random Quote Generator with React and Redux for Free Code Camp
 
 Demo https://jopf.re/quote/
 
